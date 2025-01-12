@@ -43,7 +43,7 @@ body {
 }
 .calculator > .output{
   font-size: 2rem;
-  background-color: inherit;
+  background-color: rgb(37, 37, 37);
   color: white;
   grid-column: 1 / -1;
   display: flex;
